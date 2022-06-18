@@ -39,7 +39,7 @@
 
 「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/FJRPc5hT4A 」
 <br />
-「 <img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://mlodyr.xyz 」
+「 <img align="left" alt="Discord" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://mlodyr.xyz 」
 <br />
 
 ### Statystyki !
