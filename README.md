@@ -1,4 +1,4 @@
-<h1 align="center">
+```
              .-"""-.
             /       \
             \       /
@@ -19,8 +19,8 @@
   .-"-._,(__)     .(__).-""-.
  /          \    /           \
  \          /    \           /
-  `'-------`      `--------'`</h1>
-
+  `'-------`      `--------'
+```
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/FJRPc5hT4A" />
 </p>
