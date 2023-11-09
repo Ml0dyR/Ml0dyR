@@ -31,11 +31,6 @@
 </p>
 
 
-<img align="left" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
-
-<img align="right" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
-
-### Statystyki !
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
 
 
