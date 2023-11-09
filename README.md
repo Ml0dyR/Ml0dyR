@@ -25,11 +25,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/skunshop" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/skunshop"/>
 </p
   
 ![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
 
-
-<br />
