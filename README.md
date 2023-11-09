@@ -35,13 +35,6 @@
 
 <img align="right" height="200" src="https://media.giphy.com/media/YMkdLKfomkpDGNM9NB/giphy.gif"/>
 
-### Kontakt do mnie: 
-
-「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://discord.gg/FJRPc5hT4A 」
-<br />
-「 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />https://mlodyr.xyz 」
-<br />
-
 ### Statystyki !
 ![Statystyki](https://github-readme-stats.vercel.app/api?username=MlodyR&count_private=true&show_icons=true?theme=buefy)
 
