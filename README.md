@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/FJRPc5hT4A" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=da3287&width=500&lines=+discord.gg/skunshop" />
 </p
   
 ![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
