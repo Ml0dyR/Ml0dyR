@@ -1,5 +1,3 @@
-### LICZNIK WIZYT
-  ![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
 ```
              .-"""-.                                                                                              
             /       \
