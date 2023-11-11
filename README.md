@@ -24,7 +24,7 @@
 
 ---
 <p align="center">
-That's my idol
+That's my idol and motivator
 </p>
 
 <p align="center">
