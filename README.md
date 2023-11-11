@@ -21,12 +21,11 @@
  \          /    \           /
   `'-------`      `--------'
 ```
-<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://profile-counter.glitch.me/MlodyR/count.svg" />
+     <img src="https://skillicons.dev/icons?i=lua,js,cpp" />
   </a>
-   <img src="https://skillicons.dev/icons?i=lua,js,cpp" />
-</p>
+
 
 
 ---
