@@ -21,18 +21,17 @@
  \          /    \           /
   `'-------`      `--------'
 ```
-***Programming languages that I know and use:***
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,cpp" />
+    ![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
   </a>
 </p>
 
-![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
 
+---
 <p align="center">
-That's my idol (right)
+That's my idol
 </p>
 
 <p align="center">
