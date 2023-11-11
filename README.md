@@ -22,9 +22,6 @@
   `'-------`      `--------'
 ```
 
-![LICZNIK WIZYT](https://profile-counter.glitch.me/MlodyR/count.svg)
-![LANGUAGE](https://skillicons.dev/icons?i=lua,js,cpp)
-
 ---
 <p align="center">
 That's my idol
