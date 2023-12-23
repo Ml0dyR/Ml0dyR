@@ -34,3 +34,5 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31736v4qswfudtvln6ekcpx7wjhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
   </a>
 </div>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
