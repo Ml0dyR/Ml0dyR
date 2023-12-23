@@ -36,3 +36,6 @@
 </div>
 
 
+<p align="center">
+	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=formidablae&include_all_commits=true&hide_border=true&theme=dark"/>
+</p>
