@@ -37,5 +37,3 @@
 </div>
 
 
-![Visitor Count](https://profile-counter.glitch.me/Ml0dyR/count.svg)
-
