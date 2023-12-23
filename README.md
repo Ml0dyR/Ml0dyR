@@ -33,7 +33,7 @@
   <a href="https://open.spotify.com/user/31736v4qswfudtvln6ekcpx7wjhy">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31736v4qswfudtvln6ekcpx7wjhy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
   </a>
-    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ml0dyR&layout=compact&custom_title=Most%20used%20languages&langs_count=3&include_all_commits=true&hide_progress=false&hide_border=true&theme=dark&hide=">
+    <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ml0dyR&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
 </div>
 
 
