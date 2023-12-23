@@ -23,10 +23,9 @@
   .-"-._,(__)     .(__).-""-.
  /          \    /           \
  \          /    \           /
-  `'-------`      `--------'
-
-![Visitor Count](https://profile-counter.glitch.me/Ml0dyR/count.svg)                                                          
+  `'-------`      `--------'                                                         
 ```
+![Visitor Count](https://profile-counter.glitch.me/Ml0dyR/count.svg) 
 
 ***
 
